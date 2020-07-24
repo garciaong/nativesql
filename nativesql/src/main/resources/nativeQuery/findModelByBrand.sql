@@ -1,0 +1,1 @@
+SELECT BRAND as "brand",MODEL as "model",HORSEPOWER as "horsepower",TORQUE as "torque" FROM CAR WHERE BRAND = :brand
